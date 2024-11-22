@@ -1,0 +1,38 @@
+F:\C# Projects\NewBar\Controleur\bin\Debug\Controleur.dll
+F:\C# Projects\NewBar\Controleur\bin\Debug\Controleur.pdb
+F:\C# Projects\NewBar\Controleur\bin\Debug\Modele.dll
+F:\C# Projects\NewBar\Controleur\bin\Debug\MySql.Data.DLL
+F:\C# Projects\NewBar\Controleur\bin\Debug\Modele.pdb
+F:\C# Projects\NewBar\Controleur\obj\Debug\Controleur.csproj.AssemblyReference.cache
+F:\C# Projects\NewBar\Controleur\obj\Debug\Controleur.csproj.CoreCompileInputs.cache
+F:\C# Projects\NewBar\Controleur\obj\Debug\Controleur.csproj.Up2Date
+F:\C# Projects\NewBar\Controleur\obj\Debug\Controleur.dll
+F:\C# Projects\NewBar\Controleur\obj\Debug\Controleur.pdb
+C:\NewBar\Controleur\bin\Debug\Controleur.dll
+C:\NewBar\Controleur\bin\Debug\Controleur.pdb
+C:\NewBar\Controleur\bin\Debug\Modele.dll
+C:\NewBar\Controleur\bin\Debug\MySql.Data.DLL
+C:\NewBar\Controleur\bin\Debug\Modele.pdb
+C:\NewBar\Controleur\obj\Debug\Controleur.csproj.AssemblyReference.cache
+C:\NewBar\Controleur\obj\Debug\Controleur.csproj.CoreCompileInputs.cache
+C:\NewBar\Controleur\obj\Debug\Controleur.csproj.Up2Date
+C:\NewBar\Controleur\obj\Debug\Controleur.dll
+C:\NewBar\Controleur\obj\Debug\Controleur.pdb
+F:\NewBar\Controleur\bin\Debug\Controleur.dll
+F:\NewBar\Controleur\bin\Debug\Controleur.pdb
+F:\NewBar\Controleur\bin\Debug\Modele.dll
+F:\NewBar\Controleur\bin\Debug\Modele.pdb
+F:\NewBar\Controleur\obj\Debug\Controleur.csproj.AssemblyReference.cache
+F:\NewBar\Controleur\obj\Debug\Controleur.csproj.CoreCompileInputs.cache
+F:\NewBar\Controleur\obj\Debug\Controleur.csproj.Up2Date
+F:\NewBar\Controleur\obj\Debug\Controleur.dll
+F:\NewBar\Controleur\obj\Debug\Controleur.pdb
+D:\NewBar\Controleur\bin\Debug\Controleur.dll
+D:\NewBar\Controleur\bin\Debug\Controleur.pdb
+D:\NewBar\Controleur\bin\Debug\Modele.dll
+D:\NewBar\Controleur\bin\Debug\Modele.pdb
+D:\NewBar\Controleur\obj\Debug\Controleur.csproj.AssemblyReference.cache
+D:\NewBar\Controleur\obj\Debug\Controleur.csproj.CoreCompileInputs.cache
+D:\NewBar\Controleur\obj\Debug\Controleur.csproj.Up2Date
+D:\NewBar\Controleur\obj\Debug\Controleur.dll
+D:\NewBar\Controleur\obj\Debug\Controleur.pdb

@@ -1,0 +1,72 @@
+F:\C# Projects\NewBar\NewBar\bin\Debug\NewBar.exe.config
+F:\C# Projects\NewBar\NewBar\bin\Debug\NewBar.exe
+F:\C# Projects\NewBar\NewBar\bin\Debug\NewBar.pdb
+F:\C# Projects\NewBar\NewBar\obj\Debug\NewBar.csproj.AssemblyReference.cache
+F:\C# Projects\NewBar\NewBar\obj\Debug\NewBar.Form.resources
+F:\C# Projects\NewBar\NewBar\obj\Debug\NewBar.Properties.Resources.resources
+F:\C# Projects\NewBar\NewBar\obj\Debug\NewBar.csproj.GenerateResource.cache
+F:\C# Projects\NewBar\NewBar\obj\Debug\NewBar.csproj.CoreCompileInputs.cache
+F:\C# Projects\NewBar\NewBar\obj\Debug\NewBar.exe
+F:\C# Projects\NewBar\NewBar\obj\Debug\NewBar.pdb
+F:\C# Projects\NewBar\NewBar\bin\Debug\Vue.dll
+F:\C# Projects\NewBar\NewBar\bin\Debug\Vue.pdb
+F:\C# Projects\NewBar\NewBar\obj\Debug\NewBar.csproj.Up2Date
+F:\C# Projects\NewBar\NewBar\bin\Debug\Modele.dll
+F:\C# Projects\NewBar\NewBar\bin\Debug\Controleur.dll
+F:\C# Projects\NewBar\NewBar\bin\Debug\MySql.Data.dll
+F:\C# Projects\NewBar\NewBar\bin\Debug\Modele.pdb
+F:\C# Projects\NewBar\NewBar\bin\Debug\Controleur.pdb
+C:\NewBar\NewBar\bin\Debug\NewBar.exe.config
+C:\NewBar\NewBar\bin\Debug\NewBar.exe
+C:\NewBar\NewBar\bin\Debug\NewBar.pdb
+C:\NewBar\NewBar\bin\Debug\Vue.dll
+C:\NewBar\NewBar\bin\Debug\Modele.dll
+C:\NewBar\NewBar\bin\Debug\Controleur.dll
+C:\NewBar\NewBar\bin\Debug\MySql.Data.dll
+C:\NewBar\NewBar\bin\Debug\Vue.pdb
+C:\NewBar\NewBar\bin\Debug\Modele.pdb
+C:\NewBar\NewBar\bin\Debug\Controleur.pdb
+C:\NewBar\NewBar\obj\Debug\NewBar.csproj.AssemblyReference.cache
+C:\NewBar\NewBar\obj\Debug\NewBar.Form.resources
+C:\NewBar\NewBar\obj\Debug\NewBar.Properties.Resources.resources
+C:\NewBar\NewBar\obj\Debug\NewBar.csproj.GenerateResource.cache
+C:\NewBar\NewBar\obj\Debug\NewBar.csproj.CoreCompileInputs.cache
+C:\NewBar\NewBar\obj\Debug\NewBar.csproj.Up2Date
+C:\NewBar\NewBar\obj\Debug\NewBar.exe
+C:\NewBar\NewBar\obj\Debug\NewBar.pdb
+F:\NewBar\NewBar\bin\Debug\NewBar.exe.config
+F:\NewBar\NewBar\bin\Debug\NewBar.exe
+F:\NewBar\NewBar\bin\Debug\NewBar.pdb
+F:\NewBar\NewBar\bin\Debug\Vue.dll
+F:\NewBar\NewBar\bin\Debug\Modele.dll
+F:\NewBar\NewBar\bin\Debug\Controleur.dll
+F:\NewBar\NewBar\bin\Debug\MySql.Data.dll
+F:\NewBar\NewBar\bin\Debug\Vue.pdb
+F:\NewBar\NewBar\bin\Debug\Modele.pdb
+F:\NewBar\NewBar\bin\Debug\Controleur.pdb
+F:\NewBar\NewBar\obj\Debug\NewBar.csproj.AssemblyReference.cache
+F:\NewBar\NewBar\obj\Debug\NewBar.Form.resources
+F:\NewBar\NewBar\obj\Debug\NewBar.Properties.Resources.resources
+F:\NewBar\NewBar\obj\Debug\NewBar.csproj.GenerateResource.cache
+F:\NewBar\NewBar\obj\Debug\NewBar.csproj.CoreCompileInputs.cache
+F:\NewBar\NewBar\obj\Debug\NewBar.csproj.Up2Date
+F:\NewBar\NewBar\obj\Debug\NewBar.exe
+F:\NewBar\NewBar\obj\Debug\NewBar.pdb
+D:\NewBar\NewBar\bin\Debug\NewBar.exe.config
+D:\NewBar\NewBar\bin\Debug\NewBar.exe
+D:\NewBar\NewBar\bin\Debug\NewBar.pdb
+D:\NewBar\NewBar\bin\Debug\Vue.dll
+D:\NewBar\NewBar\bin\Debug\Modele.dll
+D:\NewBar\NewBar\bin\Debug\Controleur.dll
+D:\NewBar\NewBar\bin\Debug\MySql.Data.dll
+D:\NewBar\NewBar\bin\Debug\Vue.pdb
+D:\NewBar\NewBar\bin\Debug\Modele.pdb
+D:\NewBar\NewBar\bin\Debug\Controleur.pdb
+D:\NewBar\NewBar\obj\Debug\NewBar.csproj.AssemblyReference.cache
+D:\NewBar\NewBar\obj\Debug\NewBar.Form.resources
+D:\NewBar\NewBar\obj\Debug\NewBar.Properties.Resources.resources
+D:\NewBar\NewBar\obj\Debug\NewBar.csproj.GenerateResource.cache
+D:\NewBar\NewBar\obj\Debug\NewBar.csproj.CoreCompileInputs.cache
+D:\NewBar\NewBar\obj\Debug\NewBar.csproj.Up2Date
+D:\NewBar\NewBar\obj\Debug\NewBar.exe
+D:\NewBar\NewBar\obj\Debug\NewBar.pdb

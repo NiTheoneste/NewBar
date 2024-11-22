@@ -1,0 +1,24 @@
+F:\C# Projects\NewBar\Modele\bin\Debug\Modele.dll
+F:\C# Projects\NewBar\Modele\bin\Debug\Modele.pdb
+F:\C# Projects\NewBar\Modele\obj\Debug\Modele.csproj.AssemblyReference.cache
+F:\C# Projects\NewBar\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+F:\C# Projects\NewBar\Modele\obj\Debug\Modele.dll
+F:\C# Projects\NewBar\Modele\obj\Debug\Modele.pdb
+C:\NewBar\Modele\bin\Debug\Modele.dll
+C:\NewBar\Modele\bin\Debug\Modele.pdb
+C:\NewBar\Modele\obj\Debug\Modele.csproj.AssemblyReference.cache
+C:\NewBar\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+C:\NewBar\Modele\obj\Debug\Modele.dll
+C:\NewBar\Modele\obj\Debug\Modele.pdb
+F:\NewBar\Modele\bin\Debug\Modele.dll
+F:\NewBar\Modele\bin\Debug\Modele.pdb
+F:\NewBar\Modele\obj\Debug\Modele.csproj.AssemblyReference.cache
+F:\NewBar\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+F:\NewBar\Modele\obj\Debug\Modele.dll
+F:\NewBar\Modele\obj\Debug\Modele.pdb
+D:\NewBar\Modele\bin\Debug\Modele.dll
+D:\NewBar\Modele\bin\Debug\Modele.pdb
+D:\NewBar\Modele\obj\Debug\Modele.csproj.AssemblyReference.cache
+D:\NewBar\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+D:\NewBar\Modele\obj\Debug\Modele.dll
+D:\NewBar\Modele\obj\Debug\Modele.pdb

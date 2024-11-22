@@ -1,0 +1,86 @@
+F:\C# Projects\NewBar\Vue\bin\Debug\Vue.dll
+F:\C# Projects\NewBar\Vue\bin\Debug\Vue.pdb
+F:\C# Projects\NewBar\Vue\obj\Debug\Vue.csproj.AssemblyReference.cache
+F:\C# Projects\NewBar\Vue\obj\Debug\Vue.Produit.resources
+F:\C# Projects\NewBar\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+F:\C# Projects\NewBar\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+F:\C# Projects\NewBar\Vue\obj\Debug\Vue.dll
+F:\C# Projects\NewBar\Vue\obj\Debug\Vue.pdb
+F:\C# Projects\NewBar\Vue\obj\Debug\Vue.Client.resources
+F:\C# Projects\NewBar\Vue\obj\Debug\Vue.Utilisateur.resources
+F:\C# Projects\NewBar\Vue\obj\Debug\Vue.Vente.resources
+F:\C# Projects\NewBar\Vue\obj\Debug\Vue.Accueil.resources
+F:\C# Projects\NewBar\Vue\obj\Debug\Vue.Properties.Resources.resources
+F:\C# Projects\NewBar\Vue\bin\Debug\Controleur.dll
+F:\C# Projects\NewBar\Vue\bin\Debug\Modele.dll
+F:\C# Projects\NewBar\Vue\bin\Debug\MySql.Data.dll
+F:\C# Projects\NewBar\Vue\bin\Debug\Controleur.pdb
+F:\C# Projects\NewBar\Vue\bin\Debug\Modele.pdb
+F:\C# Projects\NewBar\Vue\obj\Debug\Vue.csproj.Up2Date
+C:\NewBar\Vue\bin\Debug\Vue.dll
+C:\NewBar\Vue\bin\Debug\Vue.pdb
+C:\NewBar\Vue\bin\Debug\Controleur.dll
+C:\NewBar\Vue\bin\Debug\Modele.dll
+C:\NewBar\Vue\bin\Debug\MySql.Data.dll
+C:\NewBar\Vue\bin\Debug\Controleur.pdb
+C:\NewBar\Vue\bin\Debug\Modele.pdb
+C:\NewBar\Vue\obj\Debug\Vue.csproj.AssemblyReference.cache
+C:\NewBar\Vue\obj\Debug\Vue.Accueil.resources
+C:\NewBar\Vue\obj\Debug\Vue.Client.resources
+C:\NewBar\Vue\obj\Debug\Vue.Produit.resources
+C:\NewBar\Vue\obj\Debug\Vue.Properties.Resources.resources
+C:\NewBar\Vue\obj\Debug\Vue.Utilisateur.resources
+C:\NewBar\Vue\obj\Debug\Vue.Vente.resources
+C:\NewBar\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+C:\NewBar\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+C:\NewBar\Vue\obj\Debug\Vue.csproj.Up2Date
+C:\NewBar\Vue\obj\Debug\Vue.dll
+C:\NewBar\Vue\obj\Debug\Vue.pdb
+F:\NewBar\Vue\bin\Debug\Vue.dll
+F:\NewBar\Vue\bin\Debug\Vue.pdb
+F:\NewBar\Vue\bin\Debug\Controleur.dll
+F:\NewBar\Vue\bin\Debug\Modele.dll
+F:\NewBar\Vue\bin\Debug\MySql.Data.dll
+F:\NewBar\Vue\bin\Debug\Controleur.pdb
+F:\NewBar\Vue\bin\Debug\Modele.pdb
+F:\NewBar\Vue\obj\Debug\Vue.csproj.AssemblyReference.cache
+F:\NewBar\Vue\obj\Debug\Vue.Accueil.resources
+F:\NewBar\Vue\obj\Debug\Vue.Client.resources
+F:\NewBar\Vue\obj\Debug\Vue.Produit.resources
+F:\NewBar\Vue\obj\Debug\Vue.Properties.Resources.resources
+F:\NewBar\Vue\obj\Debug\Vue.Utilisateur.resources
+F:\NewBar\Vue\obj\Debug\Vue.Vente.resources
+F:\NewBar\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+F:\NewBar\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+F:\NewBar\Vue\obj\Debug\Vue.csproj.Up2Date
+F:\NewBar\Vue\obj\Debug\Vue.dll
+F:\NewBar\Vue\obj\Debug\Vue.pdb
+F:\NewBar\Vue\obj\Debug\Vue.MenuForm.resources
+F:\NewBar\Vue\obj\Debug\Vue.LogIn.resources
+F:\NewBar\Vue\obj\Debug\Vue.Serveur.resources
+F:\NewBar\Vue\obj\Debug\Vue.ProduitServeur.resources
+F:\NewBar\Vue\obj\Debug\Vue.Rapport.resources
+D:\NewBar\Vue\bin\Debug\Vue.dll
+D:\NewBar\Vue\bin\Debug\Vue.pdb
+D:\NewBar\Vue\bin\Debug\Controleur.dll
+D:\NewBar\Vue\bin\Debug\Modele.dll
+D:\NewBar\Vue\bin\Debug\MySql.Data.dll
+D:\NewBar\Vue\bin\Debug\Controleur.pdb
+D:\NewBar\Vue\bin\Debug\Modele.pdb
+D:\NewBar\Vue\obj\Debug\Vue.csproj.AssemblyReference.cache
+D:\NewBar\Vue\obj\Debug\Vue.Accueil.resources
+D:\NewBar\Vue\obj\Debug\Vue.Client.resources
+D:\NewBar\Vue\obj\Debug\Vue.LogIn.resources
+D:\NewBar\Vue\obj\Debug\Vue.MenuForm.resources
+D:\NewBar\Vue\obj\Debug\Vue.Produit.resources
+D:\NewBar\Vue\obj\Debug\Vue.ProduitServeur.resources
+D:\NewBar\Vue\obj\Debug\Vue.Properties.Resources.resources
+D:\NewBar\Vue\obj\Debug\Vue.Rapport.resources
+D:\NewBar\Vue\obj\Debug\Vue.Serveur.resources
+D:\NewBar\Vue\obj\Debug\Vue.Utilisateur.resources
+D:\NewBar\Vue\obj\Debug\Vue.Vente.resources
+D:\NewBar\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+D:\NewBar\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+D:\NewBar\Vue\obj\Debug\Vue.csproj.Up2Date
+D:\NewBar\Vue\obj\Debug\Vue.dll
+D:\NewBar\Vue\obj\Debug\Vue.pdb
